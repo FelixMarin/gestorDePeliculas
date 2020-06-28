@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./frontend/styles/app.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA,C","file":"css/bundle.css","sourcesContent":["body {\r\n    background-attachment: fixed;\r\n    background-color: brown;\r\n}"],"sourceRoot":""}
